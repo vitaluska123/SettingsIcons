@@ -14,6 +14,7 @@
   "scripts": {
     "dev:vc": "bd-scss dev:vc",
     "dev:vt": "bd-scss dev:vt",
+    "dev": "bd-scss dev",
     "build:css": "bd-scss build && postcss *.min.css -r --use autoprefixer --no-map",
     "lint": "prettier ./scss --check",
     "lint:fix": "prettier ./scss --write --log-level warn"

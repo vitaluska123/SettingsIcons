@@ -34,21 +34,21 @@
     }
 
     // User settings
-    .sidebar_c25c6d {
+    .sidebar__23e6b {
         width: calc(218px + var(--si-size) + var(--si-gap)) !important;
 
         :is(
-                .item_a0 .icon_f7189e,
-                .premiumLabel_ae3c77 > svg,
-                .premiumLabel_ae3c77 img,
-                .tabBarItemContainer_e7c031 > svg,
-                .tabBarItemContainer_e7c031 img
-            ) {
+            .item_a0 .icon_f7189e,
+            .premiumLabel_ae3c77 > svg,
+            .premiumLabel_ae3c77 img,
+            .tabBarItemContainer_e7c031 > svg,
+            .tabBarItemContainer_e7c031 img
+        ) {
             display: none;
         }
 
         // Settings tab
-        .side_a0 .item_a0 {
+        .side_aa8da2 .item_aa8da2 {
             display: flex;
             align-items: center;
 
